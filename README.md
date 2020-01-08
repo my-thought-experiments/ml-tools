@@ -2,7 +2,13 @@
 
 A collections of documents and practice examples on ML tools like pandas, numpy etc. on datasets.
 
-## Subject/Topics
+## Setup
+
+* All examples are implemented using Python (3.6 or above) language.
+* Install Anaconda, please follow the documentation https://docs.anaconda.com/anaconda/install/
+* Use `Jupyter Notebook` to run the examples.
+
+## Topics
 
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
